@@ -1,2 +1,2 @@
-# sensei-karpathy
-This repo include all my notes on everything sensei says or talks about
+# sensei
+all my notes on my learnings
